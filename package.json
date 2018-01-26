@@ -1,0 +1,19 @@
+{
+  "name": "@chrisburgin/eslint-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "eslint": ">= 4",
+    "eslint-plugin-react": ">= 7"
+  },
+  "dependencies": {
+    "eslint": "^4.16.0",
+    "eslint-plugin-react": "^7.6.0"
+  }
+}
